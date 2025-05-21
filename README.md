@@ -22,7 +22,7 @@ A very simple command-line app for managing tasks — built with Python. Add, up
 ## Installation
 1. Clone the repository:
 ```
-git clone [https://github.com/mjurgo/kumo.git](https://github.com/mjurgo/kumo.git)
+git clone https://github.com/mjurgo/kumo.git
 cd kumo
 ``` 
 
