@@ -1,0 +1,6 @@
+venv
+.ropeproject
+tasks.json
+tasks.db
+.idea
+__pycache__
